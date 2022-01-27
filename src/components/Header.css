@@ -1,0 +1,47 @@
+.header-container {
+  height: 60px;
+  padding: 0;
+  margin: 0;
+}
+
+.header-container h1 {
+  text-align: center;
+  padding: 10px;
+  margin: 0;
+}
+
+@media screen and (max-width: 500px) {
+  .header-container {
+    height: 62px;
+  }
+  .header-container h1 {
+    font-size: 1.7rem;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .header-container {
+    height: 56px;
+  }
+  .header-container h1 {
+    font-size: 1.4rem;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  .header-container {
+    height: 50px;
+  }
+  .header-container h1 {
+    font-size: 1.2rem;
+  }
+}
+
+@media screen and (max-width: 250px) {
+  .header-container {
+    height: 44px;
+  }
+  .header-container h1 {
+    font-size: 0.9rem;
+  }
+}
