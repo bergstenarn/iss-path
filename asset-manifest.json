@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/iss-path/static/css/main.a22c27fb.css",
+    "main.js": "/iss-path/static/js/main.5f130e75.js",
+    "static/js/787.8604593c.chunk.js": "/iss-path/static/js/787.8604593c.chunk.js",
+    "static/media/kisspng-international-space-station-zero-robotics-earth-ob-iss-5b0f61c11a3f64.png": "/iss-path/static/media/kisspng-international-space-station-zero-robotics-earth-ob-iss-5b0f61c11a3f64.1228346515277347211075.e3d8398bce4b3cf7e24f.png",
+    "index.html": "/iss-path/index.html",
+    "main.a22c27fb.css.map": "/iss-path/static/css/main.a22c27fb.css.map",
+    "main.5f130e75.js.map": "/iss-path/static/js/main.5f130e75.js.map",
+    "787.8604593c.chunk.js.map": "/iss-path/static/js/787.8604593c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a22c27fb.css",
+    "static/js/main.5f130e75.js"
+  ]
+}
